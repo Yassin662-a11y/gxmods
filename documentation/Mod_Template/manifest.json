@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "Signalmod",
+    "description": "Mi primer mod",
+    "developer": Signal
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "DEVELOPER NAME GOES HERE" 
     },
     "icons":
     {
@@ -17,10 +17,10 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/MENINA DE VERMELHO PROD. LEO.mp3",
+                "music/MENINA DE VERMELHO PROD. LEO.mp3",
+                "music/MENINA DE VERMELHO PROD. LEO.mp3",
+                "music/MENINA DE VERMELHO PROD. LEO.mp3"
             ],
             "browser_sounds":
             {
@@ -133,9 +133,9 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 278,
+                        "s": 42,
+                        "l": 19
                     },
                     "gx_secondary_base":
                     {
